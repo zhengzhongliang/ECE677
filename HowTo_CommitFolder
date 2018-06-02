@@ -1,0 +1,6 @@
+echo "# ECE505" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/zhengzhongliang/ECE677.git
+git push -u origin master
